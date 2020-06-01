@@ -12,3 +12,4 @@ directX2D프로그래밍
 9. 그래픽 render 에 CreateBitmapBrush 사용후 fillRectangle 사용 
 10. BeginDraw, EndDraw (BeginDraw엔 Clear포함)
 11. 메세지 루프 가서 그래픽 Init후 GameSystem 선언 후 render, update설정
+--------------------------이후 Scene 설정---------------------------------
